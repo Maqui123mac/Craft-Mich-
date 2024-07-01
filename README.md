@@ -1,2 +1,2 @@
-# Craft Mich 
- Tiendas_Artesanias
+# CraftMich
+ Proyecto-Personal-Django
